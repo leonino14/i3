@@ -1,0 +1,50 @@
+URxvt*font: xft:Terminus:size=12,xft:Inconsolata\ for\ Powerline:size=12
+URxvt.scrollBar:false
+
+URxvt*background:#2d1082
+URxvt*foreground:#d3d3d3
+
+!black
+URxvt.color0:#000000
+URxvt.color8:#4d4d4d
+
+!red
+URxvt.color1:#d81860
+URxvt.color9:#f00060
+
+!green
+URxvt.color2:#60ff60
+URxvt.color10:#70ff70
+
+!yellow
+URxvt.color3:#f9fd75
+URxvt.color11:#f9fd80
+
+!blue
+URxvt.color4:#5d97fa
+URxvt.color12:#679dfa
+
+!magenta
+URxvt.color5:#a78edb
+URxvt.color13:#ad97db
+
+!cyan
+URxvt.color6:#0fe0c8
+URxvt.color14:#0fe0c8
+
+!white
+URxvt.color7:#f3ebe2
+URxvt.color15:#eeeeee
+
+URxvt.transparent:true
+URxvt.shading:35
+URxvt.perl-ext-common:fullscreen,resize-font,tabbed
+URxvt.keysym.F11: perl:fullscreen:switch
+URxvt.resize-font.smaller: C-Down
+URxvt.resize-font.bigger: C-Up
+URxvt.tabbed.tabbar-fg:6
+URxvt.tabbed.tabbar-bg:0
+URxvt.tabbed.tab-fg:4
+URxvt.tabbed.tab-bg:0
+
+
